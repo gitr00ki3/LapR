@@ -1,7 +1,7 @@
 # Robust Laplacian(LapR)
 Optimal manifold neighborhood and kernel width for robust non-linear dimensionality reduction
 ## How to use?
-Run **nldr_interactive.m** file to open the interactive window. <img src="01_HowTo.jpg"></img>
+[embed]https://github.com/gitr00ki3/LapR/0README.pdf[/embed]
 ## References
 <ol>
 	<li>Manifold Regularization: a Geometric Framework for Learning from Examples, M. Belkin, P. Niyogi, V. Sindhwani, University of Chicago Computer Science Technical Report TR-2004-06, 2004, http://manifold.cs.uchicago.edu/manifold_regularization/manifold.html</li>
