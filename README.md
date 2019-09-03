@@ -2,16 +2,18 @@
 Optimal manifold neighborhood and kernel width for robust non-linear dimensionality reduction
 
 ## Cite
-@article{ABHISHEK2019104953,
-title = "Optimal manifold neighborhood and kernel width for robust non-linear dimensionality reduction",
-journal = "Knowledge-Based Systems",
-pages = "104953",
-year = "2019",
-issn = "0950-7051",
-doi = "https://doi.org/10.1016/j.knosys.2019.104953",
-url = "http://www.sciencedirect.com/science/article/pii/S0950705119303909",
-author = " Abhishek and Shekhar Verma",
-keywords = "Semi-supervised, Manifold learning, Tangent alignment, Parzen window, Non-linear, Dimensionality reduction",
+Abhishek and S. Verma, “Optimal manifold neighborhood and kernel width for robust non-linear dimensionality reduction,” in Knowledge-Based Systems, 2019, p. 104953. ISSN 0950-7051, [Online] Available: http://www.sciencedirect.com/science/article/pii/S0950705119303909, doi: 10.1016/j.knosys.2019.104953.
+
+@article{ABHISHEK2019104953,\
+title = "Optimal manifold neighborhood and kernel width for robust non-linear dimensionality reduction",\
+journal = "Knowledge-Based Systems",\
+pages = "104953",\
+year = "2019",\
+issn = "0950-7051",\
+doi = "https://doi.org/10.1016/j.knosys.2019.104953",  
+url = "http://www.sciencedirect.com/science/article/pii/S0950705119303909",  
+author = " Abhishek and Shekhar Verma",\
+keywords = "Semi-supervised, Manifold learning, Tangent alignment, Parzen window, Non-linear, Dimensionality reduction",\
 }
 
 ## How to use?
